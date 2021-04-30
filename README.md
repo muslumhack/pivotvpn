@@ -93,3 +93,14 @@ There is nothing better than live demo, this is why I made a video, explaining t
 
 That's it! enjoy you pwning :-)
 Cheers
+------------------------------------------------------------
+run autoroute -s <subnet> <gatewayolacaksession> : run autoroute -s 192.168.1.20 1
+
+pivotvpn aracinin kullanisi:
+./pivots -i <herhangibiradlainterfacetanimla> -p 80 -v 
+ornek: ./pivots -i ml0 -p 80 -v
+
+pivotvpn client :
+pivotc <kendiipm> <port> <localdekiinterface>
+ornek: pivotc 192.168.1.15 80 192.168.2.11
+dhclient ml0 ile ip almak
