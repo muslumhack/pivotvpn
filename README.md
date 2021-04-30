@@ -94,6 +94,8 @@ There is nothing better than live demo, this is why I made a video, explaining t
 That's it! enjoy you pwning :-)
 Cheers
 ------------------------------------------------------------
+
+
 run autoroute -s <subnet> <gatewayolacaksession> : run autoroute -s 192.168.1.20 1
 
 pivotvpn aracinin kullanisi:
